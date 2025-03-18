@@ -1,6 +1,6 @@
 # Personal-Portfolio
 
-https://panchapal.github.io/Personal-Portfolio/
+https://personal-portfolio-sigma-brown.vercel.app/
 
 📜 Copyright Notice
 
